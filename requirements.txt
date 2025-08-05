@@ -1,0 +1,11 @@
+torch>=2.0
+numpy>=1.24
+pandas>=1.5
+scikit-learn>=1.2
+matplotlib>=3.7
+lightgbm>=4.0
+shap>=0.43
+tqdm
+yfinance
+jupyterlab
+seaborn
